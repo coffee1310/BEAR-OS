@@ -1,0 +1,7 @@
+# ninja log v6
+1	54	1729810964155949070	CMakeFiles/BearOS.dir/main.cpp.o.ddi	b12fafe1154d74f7
+54	58	1729810964212615466	CMakeFiles/BearOS.dir/CXX.dd	b8391a73e7211a15
+54	58	1729810964212615466	/home/coffee13102006/CLionProjects/BearOS/cmake-build-debug/CMakeFiles/BearOS.dir/CXXModules.json	b8391a73e7211a15
+54	58	1729810964212615466	CMakeFiles/BearOS.dir/main.cpp.o.modmap	b8391a73e7211a15
+58	328	1729810964212615466	CMakeFiles/BearOS.dir/main.cpp.o	3c06ebc8c352f7e7
+329	364	1729810964482614179	BearOS	2d20f6ed2b35bbb

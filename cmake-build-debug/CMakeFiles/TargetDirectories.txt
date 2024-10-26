@@ -1,0 +1,3 @@
+/home/coffee13102006/CLionProjects/BearOS/cmake-build-debug/CMakeFiles/BearOS.dir
+/home/coffee13102006/CLionProjects/BearOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/coffee13102006/CLionProjects/BearOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
