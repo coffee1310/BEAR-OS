@@ -1,7 +1,5 @@
 // main.cpp
-
 #include "terminal.h"
-
 
 extern "C" void kernel() {
     // Пример вызова функции из terminal.c
